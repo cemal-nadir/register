@@ -1,0 +1,16 @@
+{
+    "description": "Jitsi Test Domain",
+    "domain": "localplayer.dev",
+    "subdomain": "cemalfilm",
+
+    "owner": {
+        "repo": "https://github.com/cemal-nadir/register",
+        "email": "cemalnadir5054@gmail.com"
+    },
+
+    "record": {
+        "A": ["94.177.147.46"]
+    },
+
+    "proxied": false
+}
